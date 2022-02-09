@@ -1,6 +1,3 @@
-# 岁岁平安
+# 记录点滴，让自动化更多一点
 
-> [个人博客](https://blog.csdn.net/m0_37965018)
-
-
-> [GitHub](https://github.com/Corefo/ "github")
+> [GitHub](https://github.com/mickle5692 "github")
